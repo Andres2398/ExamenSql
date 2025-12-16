@@ -18,6 +18,8 @@ public class Presentador {
 	}
 
 	private void empezar() {
+		
+		casoUno.probar();
 		vista.bucleAplicacion();
 		
 	}
